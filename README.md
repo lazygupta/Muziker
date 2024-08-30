@@ -1,3 +1,3 @@
-## Muziker Project
+# Muziker Project
 
-# NextJs,Tailwind, Prisma,NextAuth
+## NextJs,Tailwind, Prisma,NextAuth
